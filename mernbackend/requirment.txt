@@ -1,0 +1,7 @@
+npm init -y
+npm i express
+npm i mongoose
+npm i hbs
+mkdir src
+cd src
+mkdir models
